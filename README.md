@@ -15,7 +15,7 @@ My app, **A Spice for Life**, is a recipe/cookbook app. Users create an account 
 - **Category:** Social/Education. Primarily a place to share recipes (Education), but I plan to add functionality to review recipes (Social).
 - **Mobile:** Will be only a mobile app. May add a website or desktop version in the future, but for now the focus will firmly be mobile.
 - **Story:** My app will tell a story about culture, since each culture features different cuisine and styles of cooking. Acceptance allows for more variety of food.
-- **Market:** My app will primarily focus on peope interested in the culinary arts, alongside novices and people just trying to make a good meal. It'll, ideally, appeal to a wide audiance because of how ubiquitous food is. With the small social aspect of reviewing recipes, it may also bring in people interested in becoming critics. 
+- **Market:** My app will primarily focus on people interested in the culinary arts, alongside novices and people just trying to make a good meal. It'll, ideally, appeal to a wide audiance because of how ubiquitous food is. With the small social aspect of reviewing recipes, it may also bring in people interested in becoming critics. 
 - **Habit:** How often the app is used depends on how often the user is trying new dishes. For people who like to experiment it may be daily or close to it, while others may use it only when it strikes their fancy or they splurge for more ingredients to cook with.
 - **Scope:** I'd like for my app to be a bit balanced on the feature department. Some features should be explored more in depth, like the downloading recipes aspect, while other features could be left surface-level.
 
@@ -79,7 +79,7 @@ My app, **A Spice for Life**, is a recipe/cookbook app. Users create an account 
 - Review Feed Screen
   - Leads to Review Creation Screen
 
-# Wireframes
+# Prototype Wireframes
 ## Digital Wireframes via Figma:
 <img width="1988" height="1358" alt="image" src="https://github.com/user-attachments/assets/242905b2-f56e-4104-b529-3902c8a27a70" />
 

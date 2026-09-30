@@ -9,7 +9,7 @@
 
 # Overview
 ## Description
-My app, A Spice for Life, is a recipe/cookbook app. Users create an account and can search, find, and download the best recipes from across the world. They can test out new styles and blends, review others' books, and cultivate a new appreciation for cultural or individual meals. The best way to a person's heart is through their stomach, after all!
+My app, **A Spice for Life**, is a recipe/cookbook app. Users create an account and can search, find, and download the best recipes from across the world. They can test out new styles and blends, review others' books, and cultivate a new appreciation for cultural or individual meals. The best way to a person's heart is through their stomach, after all!
 
 ## App Evaluation
 - **Category:** Social/Education. Primarily a place to share recipes (Education), but I plan to add functionality to review recipes (Social).
